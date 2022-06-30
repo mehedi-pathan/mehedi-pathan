@@ -2,7 +2,7 @@
 - 🧑🏽‍💻 i'm a web developer.
 - 👀 I’m interested in web design and development.
 - 🌱 I’m currently learning javascript mathematics required for data science.
-- 💞️ I’m looking to collaborate on project that are using react native and nextJs.
+- 💞️ I’m looking to collaborate on project that are using Javascript or ReactJs.
 - 📫 i'm available for freelance hiring.
 
 <!---
